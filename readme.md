@@ -1,8 +1,4 @@
- <!-- README (answers & notes) -->
-  <!--
-  README
-
-  1) Difference between var, let, const
+1) Difference between var, let, const
      - var: function-scoped, hoisted (initialised with undefined), can be redeclared.
      - let: block-scoped, hoisted but not initialised (temporal dead zone), cannot be redeclared in same scope.
      - const: block-scoped, must be initialised at declaration, binding is constant (object contents may still mutate).
@@ -38,5 +34,3 @@
    - "feat: fetch and display plant cards with responsive grid"
    - "feat: add cart functionality (add/remove/total)"
    - "fix: handle API variations and add modal for plant details"
-
-  -->
